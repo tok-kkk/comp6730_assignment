@@ -1,0 +1,20 @@
+
+1. Your Uni ID (u-number)
+	u5783028
+
+2. List the other members of your group (uni ID numbers)
+	siqi zhang :u5721067
+
+3. Briefly describe what you did for the assignment. (This can be a
+   paragraph of text, or a few bullet points. It's up to you. What is
+   important is that you clearly describe what was your contribution
+   to the group's work. If you did something in close collaboration
+   with another group member, so that you cannot clearly separate out
+   who did what, then say so; for example "NNN and I wrote the user
+   documentation together").)
+
+ 	* I'm responsible for writing the code of our program.
+	* Most of the code was written by me, except the part using matplotlib to draw
+	  some graphs 
+	* The idea and algorithms of how to implement were discussed by me and siqi together
+	* The docstring of each function was written by me as well, but in-line comments were done by 		  siqi.
